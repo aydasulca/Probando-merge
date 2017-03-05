@@ -1,6 +1,6 @@
 var saludar = document.getElementById('saludo');
 function hola(){
-  saludar.innerHTML= "Hola mundo!!!";
+  saludar.innerHTML= "Adios mundo!!!";
 }
 
 hola();
